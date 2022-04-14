@@ -1,5 +1,5 @@
 # IBM-Applied-Data-Science-Capstone-SpaceX
-This capstone project course I work with real data sets. I assume the role of a Data Scientist working for a startup company that intends to compete with SpaceX, and in the process I follow Data Science methodology involving data collection, data discussion, exploratory data analysis, data visualization, model development, model evaluation, and reporting its results to stakeholders.
+This capstone project course work with real data sets. I assume the role of a Data Scientist working for a startup company that intends to compete with SpaceX, and in the process I follow Data Science methodology involving data collection, data discussion, exploratory data analysis, data visualization, model development, model evaluation, and reporting its results to stakeholders.
 
 I am in charge of predicting whether the first stage of the SpaceX Falcon 9 rocket will land successfully.  SpaceX advertises the Falcon 9 rocket launches on its website at a cost of $62 million; other vendors cost over $165 million each, much of the savings is because SpaceX can reuse the first stage.
 
